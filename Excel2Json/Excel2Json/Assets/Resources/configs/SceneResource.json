@@ -1,0 +1,1 @@
+{"configs":[{"id":1001,"url":"scenes/GameLogin.scene","uis":["LGUILoginView"],"sname":""},{"id":1002,"url":"scenes/GameMain.scene","uis":["LGUIMainBar"],"sname":""},{"id":1003,"url":"scenes/GameBattle.scene","uis":[""],"sname":""}]}
